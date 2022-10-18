@@ -4,7 +4,8 @@
 - 💞️ I’m looking forward to collaborating with all of you
 - 📫  How to reach me on my Facebook account Loai.Masri.2002
 
-<!---
-LoaiMasri1/LoaiMasri1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=LoaiMasri1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LoaiMasri1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoaiMasri1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
