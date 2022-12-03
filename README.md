@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @LoaiMasri1
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning CAP 
-- 💞️ I’m looking forward to collaborating with all of you
-- 📫  How to reach me on my Facebook account Loai.Masri.2002
 
 # 📊 GitHub Stats:
 
