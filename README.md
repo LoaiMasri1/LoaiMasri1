@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoaiMasri1
+👋 Hi, I’m @LoaiMasri1
 
 # 📊 GitHub Stats:
 
